@@ -1,0 +1,23 @@
+Please enter the file to read from: bogus
+Your file is invalid -- please re-enter
+Please enter the file to read from: weasel
+Your file is invalid -- please re-enter
+Please enter the file to read from: lab11data.txt
+bogus is not an integer -- ignored
+weasel is not an integer -- ignored
+Resizing array from 5 to 10
+3.5 is not an integer -- ignored
+Resizing array from 10 to 20
+Here are your 13 items:
+100 
+200 
+300 
+150 
+400 
+600 
+250 
+800 
+50 
+500 
+450 
+600
